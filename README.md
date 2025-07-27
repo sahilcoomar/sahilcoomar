@@ -38,7 +38,7 @@
 - 📧 Gmail: [sahilcoomar7@gmail.com](mailto:sahilcoomar7@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sahil-kumar-502a39261](https://www.linkedin.com/in/sahil-kumar-502a39261)  
 - 🌐 Portfolio: [sahilcoomar.vercel.app](https://sahilcoomar.vercel.app)  
-- 📄 Resume: [View Resume](https://your-resume-link.com)
+- 📄 Resume: [View Resume] ( https://github.com/sahilcoomar/sahilcoomar/blob/main/NEW%20SK%20CV.pdf?raw=true )
 
 ---
 
