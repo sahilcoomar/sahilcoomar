@@ -13,7 +13,7 @@
 - 💻 Love working with **HTML, CSS, JavaScript**, and backend tools like **Java & SQL**  
 - 🌱 Currently learning **Full Stack Development** + **Data Structures & Algorithms**  
 - 🎯 Dream: To build apps that impact millions!  
-- 💬 मुझसे पूछ सकते हो: Frontend, DSA, GitHub, Java, Hosting
+- 💬 Frontend, DSA, GitHub, Java, Hosting
 
 ---
 
@@ -53,14 +53,6 @@
 
 ---
 
-## 📄 Resume QR Code
-
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/sahilcoomar/sahilcoomar/blob/main/NEW%20SK%20CV.pdf?raw=true&size=150x150" alt="Resume QR" />
-</p>
-
----
-
 ## 📈 GitHub Stats 
 
 <p align="center">
@@ -79,16 +71,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahilcoomar&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
 </p>
-
----
-
-## 🐍 Contribution Graph (Snake Game Style)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilcoomar/sahilcoomar/output/github-contribution-grid-snake.svg" />
-</p>
-
-<sub>⚙️ Setup GitHub Action: Use `Platane/snk` GitHub Action to generate the snake.</sub>
 
 ---
 
