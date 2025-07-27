@@ -4,10 +4,10 @@
 </p><br>
 <br>
 <br>
-
+<br>
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-</p>
+</p><br>
 
 ---
 
