@@ -1,14 +1,12 @@
-<!-- Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+👋+I'm+Sahil+Kumar+Shaw;A+Passionate+Web+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%AA;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" align="center"/>
-</p>
-
-<br>
+<h1 align="center">Hi there 👋, I'm Sahil Kumar Shaw</h1>
 
 <p align="center">
-  <img src="https://github.com/pribhekmadhu/ashishkedia01/blob/master/code.gif?raw=true" width="300" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
 </p>
 
+<p align="center">
+  <b>Learning. Building. Growing. 🚀</b>
+</p>
 
 ---
 
@@ -52,7 +50,7 @@
 
 ## 📌 Featured Projects 
 
-- 🔐 [Online Voting System](https://github.com/sahilcoomar/online-voting)
+- 🔐 [Online Voting System](https://github.com/sahilcoomar/online-Voting-System)
 - 🌐 [Portfolio Website](https://sahilcoomar.vercel.app/)
 - 📄 [Resume PDF](https://github.com/sahilcoomar/sahilcoomar/blob/main/NEW%20SK%20CV.pdf?raw=true)
 
