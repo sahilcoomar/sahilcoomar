@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+👋+I'm+Sahil+Kumar+Shaw;A+Passionate+Web+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%AA;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80"align="center"/><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+👋+I'm+Sahil+Kumar+Shaw;A+Passionate+Web+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%AA;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80"align="center"/>
 </p>
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
