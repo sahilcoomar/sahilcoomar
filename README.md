@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sahil Kumar Shaw</h1>
 
-<!--
-**sahilcoomar/sahilcoomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m currently learning **React & Backend**
+- 📫 How to reach me: sahilcoomar7@gmail.com
+- ⚡ Fun fact: I love building websites silently ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilcoomar&show_icons=true&theme=radical)
